@@ -33,9 +33,22 @@ Your mission is to build a web app that integrates with [REST Countries API](htt
 - Use [RxJs](https://rxjs.dev/guide/overview) to achieve reactivity
 - [Angular Reactive Forms](https://angular.io/guide/reactive-forms)
 
+## Setup Instructions
+
+1. Clone this repo as a starting template. We have included all necessary packages required to complete this assessment.
+2. Install the packages by running
+   ```
+   $ npm install
+   ```
+3. Start the development server
+   ```
+   $ npm start
+   ```
+4. Start hacking away!
+
 ## Submission
 
 After you have pushed your code, you should submit the assignment by replying to the email you've received with:
 
 - The link to the deployed and working application.
-- The link to the repository's main branch on Github.
+- The link to your own repository's main branch on Github.
