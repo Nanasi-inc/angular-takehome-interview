@@ -1,27 +1,41 @@
-# AngularTakehomeInterview
+# Angular Take Home Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
+<br/>
 
-## Development server
+![Nanasi Logo](https://res.cloudinary.com/www-nanasi-co/image/upload/v1639128056/dashboard/center_piece_qhiuq1.svg)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br/>
 
-## Code scaffolding
+## Objective
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Your mission is to build a web app that integrates with [REST Countries API](https://restcountries.com/#api-endpoints-v3-all) to pull country data and display it like in the designs
 
-## Build
+##### Expected Functionality
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- List all countries from the API
+- Filter countries by region
 
-## Running unit tests
+##### Additional Expectations
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- The application should be deployed somewhere (Netlify, Vercel, GH Pages) that we can access it. You should proved a link to the working app as part of your submission via email.
+- You should provide a link to the publicly available repository whenever you send the submission email. We will also evaluate the provided codebase as part of your submission.
+- This assignment should be completed **no more than 72 hours after receiving it**.
 
-## Running end-to-end tests
+##### Bonus Points
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Add ability to search country by name using Angular's Reactive Forms Module
+- Click on a country to see more detailed information on a separate page
 
-## Further help
+#### Technologies We Expect You To Incorporate
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Use [Tailwind](https://tailwindcss.com/) (already installed) to build an almost pixel-perfect app to the designs. Refer to design files under `./mockups` folder.
+- It should be responsive
+- Use [RxJs](https://rxjs.dev/guide/overview) to achieve reactivity
+- [Angular Reactive Forms](https://angular.io/guide/reactive-forms)
+
+## Submission
+
+After you have pushed your code, you should submit the assignment by replying to the email you've received with:
+
+- The link to the deployed and working application.
+- The link to the repository's main branch on Github.
