@@ -1,4 +1,4 @@
-# Angular Take Home Angular
+# Angular Take Home Interview
 
 <br/>
 
@@ -17,7 +17,7 @@ Your mission is to build a web app that integrates with [REST Countries API](htt
 
 ##### Additional Expectations
 
-- The application should be deployed somewhere (Netlify, Vercel, GH Pages) that we can access it. You should proved a link to the working app as part of your submission via email.
+- The application should be deployed somewhere (Netlify, Vercel, GH Pages) that we can access it. You should provide a link to the working app as part of your submission via email.
 - You should provide a link to the publicly available repository whenever you send the submission email. We will also evaluate the provided codebase as part of your submission.
 - This assignment should be completed **no more than 72 hours after receiving it**.
 
