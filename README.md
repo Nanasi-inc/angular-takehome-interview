@@ -1,4 +1,4 @@
-# Angular Take Home Angular
+# Angular Take Home Interview
 
 <br/>
 
