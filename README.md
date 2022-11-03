@@ -35,7 +35,7 @@ Your goal is to build a web app that integrates with [REST Countries API](https:
 
 ## Setup Instructions
 
-1. Clone this repo as a starting template. We have included all necessary packages required to complete this assessment.
+1. Fork this repo as a starting template. We have included all necessary packages required to complete this assessment.
 2. Install the packages by running
    ```
    $ npm install
