@@ -8,7 +8,7 @@
 
 ## Objective
 
-Your mission is to build a web app that integrates with [REST Countries API](https://restcountries.com/#api-endpoints-v3-all) to pull country data and display it like in the designs
+Your goal is to build a web app that integrates with [REST Countries API](https://restcountries.com/#api-endpoints-v3-all) to pull country data and display it like in the designs
 
 ##### Expected Functionality
 
